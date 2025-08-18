@@ -20,7 +20,7 @@ graph TD
 
     subgraph "Stage 1: Extraction"
         A(CurrencyLayer API):::external --> B(fetch_currency.py):::process
-        C(Kaggle API Dataset):::external --> D(Initial coffee.csv)
+        C(Kaggle API Dataset):::external --> D(fetch_coffee.py):::process
     end
 
     subgraph "Stage 2: Adaptation & Synthesis"
