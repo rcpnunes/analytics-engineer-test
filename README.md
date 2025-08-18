@@ -1,6 +1,6 @@
-# Analytics Engineer Challenge - Pismo Solution
+# Pipeline - From API to Streamlit
 
-This repository contains a comprehensive solution for the Pismo Analytics Engineer technical challenge. It features a complete, automated ETL pipeline built with Python, designed to be maintainable, testable, and simple.
+This repository features a complete, automated ETL pipeline built with Python, designed to be maintainable, testable, and simple.
 
 The project extracts data from external sources, synthesizes a realistic historical dataset, performs data quality checks, loads it into a relational database, runs analytical transformations, and delivers the final results to both Google Drive and an interactive web dashboard.
 
