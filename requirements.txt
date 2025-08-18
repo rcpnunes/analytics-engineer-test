@@ -1,0 +1,8 @@
+requests
+pandas
+sqlalchemy
+python-dotenv
+pytest
+kagglehub
+PyDrive2
+streamlit
