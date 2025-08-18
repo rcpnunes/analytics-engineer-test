@@ -3,4 +3,6 @@ pandas
 sqlalchemy
 python-dotenv
 pytest
-kaggle
+kagglehub
+PyDrive2
+streamlit
